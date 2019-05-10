@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/info"
+    android:title="联系商家"/>
+    <item
+        android:id="@+id/advice"
+        android:title="意见及建议"/>
+    <item
+        android:id="@+id/location"
+        android:title="获取饭店位置"/>
+</menu>
